@@ -1,0 +1,180 @@
+img.bawasinside
+{
+  top: 3px;
+  position: relative;
+}
+
+.bawastitle
+{
+  display: inline-block;
+  width: 130px;
+}
+
+div.bawastools
+{
+  display:none;
+}
+
+span.bawasarr
+{
+  font-size: large;
+}
+
+input.bawaslocase
+{
+  text-transform: lowercase;
+}
+
+a.bawasnou
+{
+  text-decoration: none !important;
+}
+
+a.bawasshare
+{
+  padding: 5px;
+  background-color: #FFFFFF !important;
+}
+
+.bawasdup_red{
+ background-color: #ffa0a0 !important;
+ border: 1px solid #ff0000 !important;
+ -moz-border-radius: 2px;
+ -webkit-border-radius: 2px;
+ border-radius: 2px;
+ padding: 3px;
+}
+
+.bawasdup_ora{
+ background-color: #FFFFE0 !important;
+ border: 1px solid #FFcc33  !important;
+ -moz-border-radius: 2px;
+ -webkit-border-radius: 2px;
+ border-radius: 2px;
+ padding: 3px;
+}
+
+.bawasdup_gre{
+ background-color: #00ee00 !important;
+ border: 1px solid #00aa00  !important;
+ -moz-border-radius: 2px;
+ -webkit-border-radius: 2px;
+ border-radius: 2px;
+ padding: 3px;
+}
+
+label.bawasnewcb a.button-primary:before{
+ content: "\221A\00A0";
+}
+
+.bawasresetstats{
+ float:right;
+ padding-top: 0px !important;
+}
+
+span.bawasbefstats{
+ display:inline-block;
+ min-width: 105px;
+}
+
+.bawasx{
+	background: url('../images/x.gif') no-repeat;
+	width: 10px;
+	top: 8px;
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.bawasx:hover{
+	background: url('../images/x.gif') no-repeat -10px 0;
+}
+
+.bawasx img{
+ display: none;
+ position: relative;
+ top: -24px;
+
+}
+
+.bawasfleft{
+  float: left !important;
+}
+
+.bawasfright{
+  float: right !important;
+}
+
+.bawasfnone{
+  float: none !important;
+}
+
+.bawasdnone{
+  display: none;
+}
+
+.bawasdblock{
+  display: block !important;
+}
+
+.bawasfix{
+  clear: both !important;
+}
+
+.btnmoreredirections{
+ display: inline;
+ text-align: center;
+ cursor: pointer;
+}
+
+.bawastacenter{
+ text-align: center !important;
+}
+
+.bawastaleft{
+ text-align: left !important;
+}
+
+.bawasbtngreen{
+  background-color:lightgreen !important;
+  border-color:green !important;
+  cursor: pointer;
+}
+
+.bawasbtngreen:hover{
+  border-color:black !important;
+}
+
+input[readonly]{
+ background-color: #FFFFFF !important;
+}
+
+.bawashelper, .bawashelperee{
+ -moz-border-radius: 4px;
+ -webkit-border-radius: 4px;
+ background-color: #FFFFE0;
+ border-radius: 4px;
+ border: 1px solid #E6DB55;
+ padding: 3px 3px 3px 30px;
+ margin-top: 5px;
+}
+
+.bawashelper:hover{
+ background: url('../images/help.gif') no-repeat #FFFFE0;
+}
+
+.bawashelperee:hover{
+ background: url('../images/help.png') no-repeat #FFFFE0;
+}
+
+div#bawasfaq{
+ padding: 10px;
+}
+
+div#bawasfaq h4{
+ padding-left: 15px;
+}
+
+img[id^="minidel_"]{
+ cursor: pointer; 
+}

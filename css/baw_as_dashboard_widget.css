@@ -1,0 +1,101 @@
+#bawas_dashboard_widget p.sub,#bawas_dashboard_widget .table,#bawas_dashboard_widget .versions {
+margin:-12px;
+}
+
+#bawas_dashboard_widget .inside {
+font-size:12px;
+padding-top:20px;
+}
+
+#bawas_dashboard_widget p.sub {
+font-style:italic;
+font-family:Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+color:#777;
+font-size:13px;
+position:absolute;
+top:-17px;
+left:15px;
+padding:5px 10px 15px;
+}
+
+#bawas_dashboard_widget .table {
+position:relative;
+margin:0 -9px;
+padding:0 10px;
+}
+
+#bawas_dashboard_widget .table_content {
+float:left;
+border-top:#ececec 1px solid;
+width:45%;
+}
+
+#bawas_dashboard_widget .table_discussion {
+float:right;
+border-top:#ececec 1px solid;
+width:45%;
+}
+
+#bawas_dashboard_widget table td {
+white-space:nowrap;
+padding:3px 0;
+}
+
+#bawas_dashboard_widget table tr.first td {
+border-top:none;
+}
+
+#bawas_dashboard_widget td.b {
+padding-right:6px;
+text-align:right;
+font-family:Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+font-size:14px;
+width:1%;
+}
+
+#bawas_dashboard_widget td.b a {
+font-size:18px;
+}
+
+#bawas_dashboard_widget td.b a:hover {
+color:#d54e21;
+}
+
+#bawas_dashboard_widget .t {
+font-size:12px;
+padding-right:12px;
+padding-top:6px;
+color:#777;
+}
+
+#bawas_dashboard_widget .t a {
+white-space:nowrap;
+}
+
+#bawas_dashboard_widget .spam {
+color:red;
+}
+
+#bawas_dashboard_widget .waiting {
+color:#e66f00;
+}
+
+#bawas_dashboard_widget .approved {
+color:green;
+}
+
+#bawas_dashboard_widget .versions {
+clear:both;
+padding:6px 10px 12px;
+}
+
+#bawas_dashboard_widget .versions .b {
+font-weight:700;
+}
+
+#bawas_dashboard_widget a.button {
+float:right;
+clear:right;
+position:relative;
+top:-5px;
+}

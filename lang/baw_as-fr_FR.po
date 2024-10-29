@@ -1,0 +1,1029 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AutoShortener\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-01 07:51+0100\n"
+"PO-Revision-Date: 2011-06-01 09:36+0100\n"
+"Last-Translator: Juliobox <juliobosk@gmail.com>\n"
+"Language-Team: Juliobox <juliobosk@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: c:\\Web\\Sites\\baw\\baw_auto_shortener\n"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/about.php:6
+msgid "About BoiteAWeb"
+msgstr "A propos de BoiteAWeb"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/about.php:7
+msgid "Blog"
+msgstr "Blog"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/about.php:7
+msgid "Security Expert Wordpress Blog"
+msgstr "Blog Sécurité Expert Wordpress"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/about.php:8
+msgid "Site secu"
+msgstr "Site sécurité"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/about.php:8
+msgid "Web Security Consultant Corporate Website"
+msgstr "Site Web Corporate de Consultant en Sécurité Web"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/about.php:9
+msgid "Donate"
+msgstr "Don"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:62
+msgid "Auto Shortener"
+msgstr "Auto Shortener"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:70
+msgid "Top clics"
+msgstr "Top clics"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:70
+msgid "Last links"
+msgstr "Derniers liens"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:94
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:462
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:220
+#, php-format
+msgid "%s clic"
+msgstr "%s clic"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:108
+msgid "Nothing, just wait ;)"
+msgstr "Rien, attendez un peu ;)"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:120
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:756
+msgid "Settings"
+msgstr "Réglages"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:122
+msgid "You are using BAW AS version"
+msgstr "Vous utilisez BAW AS version"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:130
+msgid "BAW Auto Shortener Statistics"
+msgstr "BAW Auto Shortener Statistiques"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:138
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:149
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:57
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:125
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:133
+msgid "Get link"
+msgstr "Lien"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:138
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:149
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:57
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:125
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:133
+msgid "Here is your short link !"
+msgstr "Voici votre lien court !"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:140
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:151
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:456
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:210
+msgid "None"
+msgstr "Aucun"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:198
+msgid "Error : You do not have the permission to do that."
+msgstr "Erreur : Vous n'avez pas la permission de faire ça."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:203
+msgid "Error : Keyword already exists."
+msgstr "Erreur : Le mot-clé existe déjà."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:207
+msgid "The new keyword have been added !"
+msgstr "Le nouveau mot-clé a été ajouté !"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:224
+msgid "Back"
+msgstr "Retour"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:290
+msgid "BAW Auto Shortener"
+msgstr "BAW Auto Shortener"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:293
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:301
+msgid "General settings"
+msgstr "Config générale"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:302
+msgid "Advanced settings"
+msgstr "Config avancée"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:303
+msgid "Tools"
+msgstr "Outils"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:304
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:66
+msgid "Special redirections"
+msgstr "Redirections spéciales"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:305
+msgid "Help/FAQ"
+msgstr "Aide/FAQ"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:331
+msgid "Save Changes"
+msgstr "Sauver"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:332
+msgid "Error, there is some duplicate keywords"
+msgstr "Erreur, il y a des mots-clé en double"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:440
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:446
+msgid "BAW AS Stats"
+msgstr "BAW AS Stats"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:455
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:458
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:212
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:262
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:265
+msgid "No referer"
+msgstr "Aucun référent"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:485
+msgid "Take care ! You've got some duplicated keywords, slugs or ID : "
+msgstr "Attention ! Vous avez quelques mots-clé, ID ou slugs en doublons : "
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:565
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:578
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:135
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:157
+msgid "Remove this entry"
+msgstr "Supprimer cette entrée"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:566
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:581
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:179
+msgid "Add"
+msgstr "Ajouter"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:567
+msgid " clic"
+msgstr "clic"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:568
+msgid "Are you sure to delete ALL stats for this entry ? (not reversible)"
+msgstr "Etes-vous sûr(e) de vouloir supprimer TOUTES les stats pour cette entrée ? (irréversible)"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:574
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:183
+msgid "Here you can quickly add keywords for a post/page/custom post."
+msgstr "Ici vous pouvez rapidement ajouter des mots-clé pour un article/page/type d'article perso."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:579
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:34
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:80
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:18
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:29
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:5
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:18
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:24
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:31
+msgid "Yes"
+msgstr "Oui"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:580
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:34
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:80
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:18
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:29
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:5
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:18
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:24
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:31
+msgid "No"
+msgstr "Non"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:584
+msgid "Its stats will be the same for all other keywords"
+msgstr "Ses stats seront les mêmes pour tous les autres mots-clé"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:585
+msgid "Duplicates keywords cannot works !"
+msgstr "Les mots-clé en double ne peuvent pas fonctionner !"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:586
+msgid "Reload to view stats"
+msgstr "Recharger pour voir les stats"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:590
+msgid "Leave it blank to generate a key"
+msgstr "Laisser vide pour générer une clé"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:601
+msgid "This plugin requires PHP 5.0 or more"
+msgstr "Ce plugin requiert PHP 5.0 ou plus"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:605
+msgid "This plugin requires WordPress 3.1 or more. Your version : "
+msgstr "Ce plugin requiert WordPress 3.1 ou plus. Votre version : "
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:611
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:617
+msgid "This site is using"
+msgstr "Ce site utilise"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:667
+msgid "You do not have the permission to do this"
+msgstr "Vous n'avez pas la permission de faire ça"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:695
+msgid "Valid URL"
+msgstr "Lien valide"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:697
+msgid "Invalid URL (404 ?)"
+msgstr "Lien invalide (404 ?)"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/baw_auto_shortener.php:730
+msgid "Error"
+msgstr "Erreur"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:3
+msgid "Please do not access this file directly. Thanks!"
+msgstr "S'il vous plait ne chargez pas directement ce fichier. Merci !"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:55
+msgid "Stats"
+msgstr "Stats"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:63
+msgid "preview"
+msgstr "prévisualiser"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:98
+msgid "Post type"
+msgstr "Type d'article"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:102
+msgid "Comments"
+msgstr "Commentaires"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:102
+msgid "comment(s)"
+msgstr "commentaire(s)"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:103
+msgid "Post date"
+msgstr "Date de l'article"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:106
+msgid "First access"
+msgstr "Premier accès"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:107
+msgid "Last access"
+msgstr "Dernier accès"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:110
+msgid "External link"
+msgstr "Lien externe"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:112
+msgid "Post title"
+msgstr "Titre de l'article"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:114
+msgid "Big permalink"
+msgstr "Permalien complet"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:121
+msgid "Real final link"
+msgstr "Permalien réel"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:124
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:132
+msgid "Short permalink"
+msgstr "Permalien court"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:144
+msgid "Referers"
+msgstr "Référents"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:144
+msgid "Referers list"
+msgstr "List des référents"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:144
+msgid "All"
+msgstr "Tout"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:147
+msgid "Share"
+msgstr "Partager"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:177
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:178
+msgid "Add a new keyword"
+msgstr "Ajouter un mot-clé"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:184
+msgid "You can also delete keywords and share links."
+msgstr "Vous pouvez aussi supprimer des mots-clé et partager les liens."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:185
+msgid "Also you've got a stats screen, his help is in the \"Special redirections\" tab in <a href=\"admin.php?page=baw_as_config\">the settings</a>."
+msgstr "Aussi vous avez un écran des stats, son aide se trouve dans l'onglet \"Redirections spéciales\" dans <a href=\"admin.php?page=baw_as_config\">les paramètres</a>."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:218
+#, php-format
+msgid "%s clics"
+msgstr "%s clics"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:270
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:271
+msgid "Not yet !"
+msgstr "Pas encore !"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/functions.inc.php:312
+msgid "Go to settings"
+msgstr "Voir la config"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:3
+msgid "Bookmarklet secret key"
+msgstr "Clé secrète pour le bookmarklet"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:6
+msgid "Security key for bookmarklet creation. Do not change it until you really need to."
+msgstr "Clé de sécurité pour la création du bookmarklet. Changez que si vous avez réellement besoin."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:9
+msgid "This key is used to secure your bookmarklet links.<br />"
+msgstr "Cette clé est utlisée pour sécuriser les liens de votre bookmarklet.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:10
+msgid "1) If you need to change it (for security reason), leave it blank (recommanded to generate a new great random value).<br />"
+msgstr "1) Si vous avez besoin de la changer (pour des raisons de sécurité), laissez à vide (recommandé pour générer une valeur aléatoire correcte).<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:11
+msgid "2) Reload the page.<br />"
+msgstr "2) Rechargez la page.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:12
+msgid "3) Update your bookmarklet buttons into your webbrowser toolbar.<br />"
+msgstr "3) Glissez/déplacez ce bouton dans la barre d'outil de votre navigateur.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:13
+msgid "4) The key will be included to the new bookmarklet link."
+msgstr "4) La clé sera incluse dans le nouveau lien du bookmarklet."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:19
+msgid "Fordidden keywords"
+msgstr "Mots-clé interdits"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:21
+msgid "Comma separated."
+msgstr "Séparés par des virgules."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:22
+msgid "These keywords can be selected or auto generated."
+msgstr "Ces mots-clé ne peuvent être choisis ou générés automatiquement."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:25
+msgid "It can be disturbing for your visitors to see some crappy words in your short links. Here you can type the forbidden words, they never be auto generated and you cannot use them to create a keyword.<br />"
+msgstr "Il peut être dérangeant pour vos visiteurs de lire des mots étranges dans vos liens courts. Ici vous pouvez taper les mots interdits, ils ne seront jamais auto générés et vous ne pourrez pas les utiliser pour créer un mot-clé.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:26
+msgid "BUT, if the keyword \"hello\" exists and you add it to the forbidden list, it's to late, of course..."
+msgstr "MAIS, si le mot-clé \"hello\" existe et que vous l'ajoutez dans la liste des mots interdits, il est trop tard, evidemment ..."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:32
+msgid "Keep query vars"
+msgstr "Garder les variables de requêtes"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:34
+msgid "Do you want to keep the query vars in your links ? "
+msgstr "Voulez-vous garder les variables de la requête dans vos liens ?"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:35
+msgid "Ex. : http://mywebsite.com/goo/boiteaweb.php?var=julio forwards on http://www.google.com/boiteaweb.php?var=julio.<br />The anchor, like #q=mysearch will always be kept, even on \"No\" selection."
+msgstr "Ex. : http://monsiteweb.com/goo/boiteaweb.php?var=julio mène sur http://www.google.com/boiteaweb.php?var=julio.<br />L'ancre, comme #q=marecherche sera toujours gardée, même si \"Non\" est sélectionné."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:38
+msgid "You can also do this :<br />"
+msgstr "Vous pouvez aussi faire ça :<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:39
+msgid "http://mywebsite.com/goo/directory/anotherone/page.php?var=value#anchor<br />"
+msgstr "http://monsiteweb.com/goo/dossier/unautre/page.php?var=valeur#ancre<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:40
+msgid "The final URL will be :<br />"
+msgstr "L'URL finale sera :<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:41
+msgid "http://www.google.com/directory/anotherone/page.php?var=value#anchor"
+msgstr "http://www.google.com/dossier/unautre/page.php?var=valeur#ancre"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:47
+msgid "Referer detail"
+msgstr "Détail du référent"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:50
+msgid "Low"
+msgstr "Bas"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:50
+msgid "http://www.website.com"
+msgstr "http://www.siteweb.fr"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:51
+msgid "Medium"
+msgstr "Moyen"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:51
+msgid "http://www.website.com/directory/page.php"
+msgstr "http://www.siteweb.fr/dossier/page.php"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:52
+msgid "High"
+msgstr "Haut"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:52
+msgid "http://www.website.com/directory/page.php?args1=true&arg2=string"
+msgstr "http://www.siteweb.fr/dossier/page.php?args1=vrai&arg2=chaine"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:56
+msgid "The referer is something that drives a visitor to your website.<br />"
+msgstr "Le référent est quelquechose qui conduit un visiteur sur votre site web.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:57
+msgid "Sometimes there is no referer set, this means that the link have been hit in the address bar.<br />"
+msgstr "Quelquefois il n'y a pas de référent, cela signifie que le lien a été tapé dans la barre d'adresse.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:58
+msgid "This setting is the referer log level. \"Low\" or \"Medium\" is recommanded."
+msgstr "Ce paramètre est le niveau d'historisation du référent. \"Bas\" ou \"Moyen\" est recommandé."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:64
+msgid "Create share domains"
+msgstr "Création de partageurs"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:67
+msgid "One per line. Use {%URL%} for parsing method."
+msgstr "Un par ligne. Utilisez {%URL%} comme méthode de remplacement."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:70
+msgid "You can add you own sharer here ! Example :<br />"
+msgstr "Vous pouvez ajouter votre propre partageur ici ! Exemple :<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:71
+msgid "(This website exists ! Visit it !)"
+msgstr "(Ce site web existe ! Visitez le !)"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:72
+msgid "<br />This links will be shown for every short links in info URL (those finishing with a \"+\"), and on every external links in \"Special Redirections\", and again in every post/page. "
+msgstr "<br />Ces liens seront affichés pour chaque lien court dans les infos des URLs (celles qui finissent avec un \"+\"), et pour chaque lien externe dans \"Redirections Spéciales\", et encore pour chaque article/page."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:78
+msgid "Check duplicates"
+msgstr "Vérifier les doublons"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:80
+msgid "Do you want to check duplicate slug/ID ?"
+msgstr "Souhaitez-vous vérifier les doublons des slugs/ID ?"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/advanced-settings.inc.php:83
+msgid "If your permalink structure is \"%post_name%\" and if you create a post named \"login\" and if you already have a keyword \"login\" used in a short url, this post won't be reacheable. So activate this option will warn you about duplicate slugs/IDs. This may create a huge traffic (5 UNION requests)"
+msgstr "Si la structure de vos permaliens est \"%post_name%\" et si vous créez un article nommé \"login\" et si vous avez déjà un mot-clé \"login\" utilisé dans une url courte, cet article ne sera pas joignable. Donc, activer cette option vous avertira des doublons  des slugs/IDs. Ceci peut générer un traffic important (5 requêtes UNION)"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:3
+msgid "Short url"
+msgstr "Lien court"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:5
+msgid "Example <em>http://exte.rn</em> in place of <em>http://www.mywebsite.com</em>."
+msgstr "Exemple <em>http://exte.rn</em> à la place de <em>http://www.monsiteweb.fr</em>."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:8
+msgid "You can even set another external url you own like <em>http://exte.rn</em>.<br />"
+msgstr "You pouvez même paramétrer une url externe qui vous appartient comme <em>http://exte.rn</em>.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:9
+msgid "In this case you have to add this line into your \"exte.rn\" .htaccess file :<br />"
+msgstr "Dans ce cas vous aurez besoin d'ajouter ces lignes dans le fichier .htaccess de votre \"http://exte.rn\" :<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:16
+msgid "Generate keywords for posts"
+msgstr "Générer des mots-clé pour les articles"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:18
+msgid "Do you want to auto-generate a keyword for every new published post/page ? "
+msgstr "Voulez-vous auto-générer un mot-clé pour chaque article/page publié ?"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:21
+msgid "If \"yes\", when a post/page will be published for the first time, a automatic generated keyword will be associated."
+msgstr "Si `\"oui\", quand un article/page sera publié pour la première fois, un mot-clé sera automatiquement généré et associé."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:27
+msgid "Use keywords in links"
+msgstr "Utiliser les mots-clé dans les liens"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:29
+msgid "Do you want to replace numbers by keywords in Permalinks ? "
+msgstr "Voulez-vous remplacer les chiffres par les mots-clé dans les Permaliens ?"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:32
+msgid "Little example with the post id \"12345\" with associated keyword \"hello\" :<br />"
+msgstr "Petit exemple avec l'article n° \"12345\" associé avec le mot-clé \"hello\" :<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:33
+msgid "If \"no\" is selected : http://mywebsite.com/12345<br />"
+msgstr "Si \"non\" est sélectionné : http://monsiteweb.com/12345<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:34
+msgid "If \"yes\" is selected : http://mywebsite.com/hello<br />"
+msgstr "Si \"oui\" est sélectionné : http://monsiteweb.com/hello<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:40
+msgid "Stats in dashboard"
+msgstr "Statistiques sur le tableau de bord"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:42
+msgid "How many stats do you want to see in your dashboard ?"
+msgstr "Combien de stats voulez vous voir dans votre tableau de bord ?"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/general-settings.inc.php:45
+msgid "Set here how many top clic links and last created link you want to see when you are in the <a href=\"/wp-admin/index.php\">dashboard</a>."
+msgstr "Paramétrez ici combien de top clic et de derniers liens créés vous voulez voir quand vous êtes sur le <a href=\"/wp-admin/index.php\">tableau de bord</a>."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:3
+msgid "Advanced helper"
+msgstr "Aide avancée"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:6
+msgid "If \"Yes\", some help box will appears below the settings fields."
+msgstr "Si \"Oui\", quelques boîtes d'aide apparaitront sous les champs de configuration."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:8
+msgid "This is the kind of help box ;)"
+msgstr "Voici le type de boîte d'aide ;)"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:14
+msgid "Help me !"
+msgstr "Aidez-moi !"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:16
+msgid "This plugin is free, neither you can make a donation, even 1&#36;/1&euro; is good !"
+msgstr "Cette extension est gratuite, néanmoins vous pouvez faire un bon, même 1&#36;/1&euro; est bien !"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:18
+msgid "I'm gonna make a donation, soon, i promise ! "
+msgstr "Je vais faire un bon, bientôt, promis !"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:18
+msgid "<strong>Thank you !!</strong>"
+msgstr "<strong>Merci !!</strong>"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:22
+msgid "Help me again !"
+msgstr "Aidez-moi encore !"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:25
+msgid "As you know this plugin is free, can you show my plugin link in your blog footer ?"
+msgstr "Comme vous le savez l'extension est gratuite, pouvez-vous afficher le lien vers mon extension dans le pied de votre blog ?"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:28
+msgid "The same link as this one in admin area will be displayed in your website footer."
+msgstr "Le même lien que celui de l'aministration sera affiché dans le pied de votre site web."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:34
+msgid "Need more help ?"
+msgstr "Besoin de plus d'aide ?"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:36
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:37
+msgid "Visit"
+msgstr "Visitez"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/help.inc.php:37
+msgid "-en"
+msgstr "-fr"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:3
+msgid "Use \"last\" redirection"
+msgstr "Utilliser la redirection \"dernier\""
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:5
+msgid "Leave it blank if you do not want."
+msgstr "Laisser vide si vous ne voulez pas."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:7
+msgid "Type here a special keyword (like \"last\") to automatically redirect users on your last published post."
+msgstr "Tapez ici un mot-clé spécial (comme \"dernier\") pour rediriger automatiquement vos visiteurs sur votre dernier article publié."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:10
+msgid "You can use a special keyword to redirect your visitors to the last post/page/other_stuff you published.<br />"
+msgstr "Vous pouvez utiliser un mot-clé spécial pour rediriger vos visiteurs sur le dernier article/page/autre_truc que vous avez publié.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:11
+msgid "Take care, if you change this keyword, the old one won't work anymore."
+msgstr "Attention, si vous changez ce mot-clé, l'ancien ne fonctionnera plus."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:17
+msgid "Post types for \"last\" redirection"
+msgstr "Types d'article pour la redirection \"dernier\""
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:43
+msgid "Last published "
+msgstr "Dernière publication de "
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:43
+msgid " or "
+msgstr " ou "
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:47
+msgid "Here you can check the allowed post type included for the \"last\" redirection.<br />"
+msgstr "Ici vous pouvez vérifier les types d'articles autorisés pour l'inclusion de la redirection \"dernier\" article.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:48
+msgid "Even your own post types are available !"
+msgstr "Même vos propres types d'articles sont disponibles !"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:54
+msgid "Special redirection pagination"
+msgstr "Pagination des redirections spéciales"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:56
+msgid "How many URLs by page do you want to see in the special redirections tab ?"
+msgstr "Combien de liens par page voulez-vous voir dans l'onglet des redirections spéciales ?"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:59
+msgid "Set here how many redirection by page you want to see when you are in the Special Redirections tab.<br />"
+msgstr "Paramétrez combien de redirection par page vous voulez voir quand vous êtes dans l'onglet des redirections spéciales.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:60
+msgid "Also, this number will be used to load more redirection at once."
+msgstr "Aussi, ce chiffre sera utilisé pour charger plus de redirections d'un coup."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:68
+msgid "Sorts"
+msgstr "Tris"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:70
+msgid "Filters"
+msgstr "Filtres"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:75
+msgid "Sort by"
+msgstr "Trier par"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:76
+msgid "ASC"
+msgstr "ASC"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:77
+msgid "DESC"
+msgstr "DESC"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:79
+msgid "Date"
+msgstr "Date"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:80
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:86
+msgid "URL"
+msgstr "URL"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:81
+msgid "Keywords"
+msgstr "Mots-clé"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:82
+msgid "Clics"
+msgstr "Clics"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:85
+msgid "Filter by"
+msgstr "Filtres"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:87
+msgid "Keyword"
+msgstr "Mot-clé"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:97
+msgid "more redirections"
+msgstr "redirections de plus"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:98
+msgid "All redirections"
+msgstr "Toutes les redirections"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:100
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:111
+msgid "Add a new rule"
+msgstr "Ajouter une nouvelle règle"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:108
+msgid "This is a huge part of the plugin :<br />"
+msgstr "Ceci est un gros morceau de l'extension :<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:109
+msgid "Here you can create/delete external redirection within YOUR WordPress website/blog. Statistics are included, possibility to share.<br />"
+msgstr "Ici vous pouvez créer/supprimer des liens externes depuis VOTRE site/blog WordPress. Les statistiques sont incluses, possibilité de partager.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:110
+msgid "First things first ; Little description :<br />"
+msgstr "Une chose à la fois ; petite description :<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:112
+msgid "This button is used to add new rules, a rule is a new external redirection.<br />"
+msgstr "Ce bouton sert à ajouter de nouvelles règles, une règle est une redirection externe.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:114
+msgid "Then you've got 1 delete button, it's used to delete an existing rule. Take care, if this link is known by anyone (including search engines), this link will be broken !<br />"
+msgstr "Puis vous avez 1 bouton supprimer, il sert à supprimer une règle existante. Attention, si ce lien est connu par quelqu'un (même les moteur de recherche), ce lien sera cassé !<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:115
+msgid "You've got also 2 text inputs. The first input must contains the URL. The second, the keyword (it can be a number <sup>(1)</sup>)<br />"
+msgstr "Vous avez aussi 2 champs texte. Le premier champ doit contenir l'URL. Le second, le mot-clé (cela peut être un chiffre <sup>(1)</sup><br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:116
+msgid "Near that you've got 1 picture : "
+msgstr "Près de ça vous avez 1 image :"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:118
+msgid " : A green one means the URL is correct (HTTP 200,301,302) and a red one an incorrect URL (HTTP 404).<br />"
+msgstr " : Une image verte signifie que l'URL est correcte (HTTP 200,301,302) et une rouge que l'URL est incorrecte (HTTP 404).<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:119
+msgid "Then the Stats button : "
+msgstr "Puis le bouton stats : "
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:121
+msgid " : You can quickly see how much clic have been made on this link and ... clic it to slide down the statistics panel !<br />"
+msgstr " : Vous pouvez rapidement voir combien de clic on été fait sur ce lien et ... cliquez le pour dérouler le panneau des stats !<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:122
+msgid "Following this, you've got your sharer buttons, you can set them in the \"Advanced settings\" tab.<br />"
+msgstr "A la suite de ça, vous avez les boutons de partages, vous pouvez les paramétrer dans l'onglet \"Config avancée\".<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:124
+msgid "In the stats panel you've got some others informations like referers <sup>(2)</sup>, date of first and last access, post type, different link informations, a chart and a reset button.<br />"
+msgstr "Dans le panneau des stats vous avez quelques informtations comme les référents <sup>(2)</sup>, date de premier et dernier accès, type d'article, différents liens d'informations, un graphique et un bouton reset.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:125
+msgid "The reset button ... resets the stats ! A confirmation popup will appear before the erase.<br />"
+msgstr "Le bouton reset sert à ... remettre à 0 les stats ! Une fenêtre de confirmation apparait avant d'effacer.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:126
+msgid "The \"External link\" is YOUR link, the one you set earlier.<br />"
+msgstr "Le \"Lien externe\" est VOTRE lien, celui que vous avez paramétré plus tôt.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:127
+msgid "The \"Real permalink\" is the FINAL url link, example, if you set up a bit.ly link, you'll see here the real url hidden behind bit.ly.<br />"
+msgstr "Le \"Permalien réél\" est l'URL FINALE, exemple, si vous paramétrez un lien bit.ly, vous verrez la véritable url cachée derriere ce len bit.ly.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:128
+msgid "The first \"Short permalink\" is the post ID, the others are yours, you can set more than 1 keyword for same final URL.<br />"
+msgstr "Le premier \"Permalien court\" est l'ID de l'article/page, les autres sont vos mots-clé, vous pouvez ajoutez plus d'1 mot-clé pour une même URL finale.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:129
+msgid "And \"Referer list\" contains all the referers who drives visitors to your link.<br />"
+msgstr "Puis la \"Liste des référents\" contient tous les référents qui ont été conduits sur votre lien.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:130
+msgid "This picture is a button, clic it to get a popup to easily copy this link."
+msgstr "Cette image est un boutton, cliquez le pour avoir une popup pour facilement copier ce lien."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:131
+msgid "The pie chart is a little representation of this referers.<br />"
+msgstr "Le graphique en camembert est une petite représentation de ces référents.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:132
+msgid "Below this, here's the pagination, you can change this in the \"General settings\" tab.<br />"
+msgstr "En dessous de ça, c'est la pagination, vous pouvez changer ça dans l'onglet \"Config générale\".<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:134
+msgid "Tips : Do not loop your posts with numbered keywords !<br />"
+msgstr "Astuces : Ne faites pas tourner en boucle vos articles avec des mots-clé en chiffres !<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:135
+msgid "Tips : Avoid link your own post in this screen, use the real post keyword to do this (Clic on \"Edit post\" to undertand).<br />"
+msgstr "Astuces : Eviter de relier vos propres posts dans cet écran, utilisez les vrais mots-clé de l'article pour le faire (Cliquez sur \"Editer l'article\" pour comprendre).<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:137
+msgid "<sup>1</sup> : If you set up a number as keyword, you have to know that the numbered permalink of this post ID will not be available anymore !<br />"
+msgstr "<sup>1</sup> : Si vous mettez un chiffre en tant que mot-clé, vous devez savoir que le permalien du post de ce chiffre ne sera plus disponible !<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:138
+msgid "Example : <em>http://mywebsite.com/123</em> is my \"Hello world!\" post. I set a \"123\" keyword for my \"Good bye!\" post (real ID 456). So now <em>http://mywebsite.com/123</em> is linked to the 456 post ID ! Keywords have priority on real IDs !<br />"
+msgstr "Exemple : <em>http://monsiteweb.com/123</em> est mon article \"Bonjour tout le monde!\". Je crée un mot-clé \"123\" pour mon article \"Au revoir!\" (véritable ID 456). Donc maintenant <em>http://monsiteweb.com/123</em> est relié à l'article n°456 ! Les mots-clé ont la priorité sur les vrais IDs!<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/special-redirections.inc.php:139
+msgid "<sup>2</sup> : A referer is something that drives a visitor to your website.<br />"
+msgstr "<sup>2</sup> : Un référent est quelquechose qui conduit un visiteur sur votre site web.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:3
+msgid "Bookmarklet"
+msgstr "Bookmarklet (marque-page scripté)"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:6
+msgid "Auto generated keyword bookmarklet"
+msgstr "Mot-clé généré automatiquement pour le bookmarklet"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:7
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:12
+msgid "Drag and drop this button into your webbrowser toolbar"
+msgstr "Glissez/déplacez ce bouton dans la barre d'outil de votre navigateur"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:8
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:13
+msgid "Drag it into your toolbar !"
+msgstr "Déplacez le dans la barre d`outil !"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:11
+msgid "Custom keyword bookmarklet"
+msgstr "Mot-clé personnel pour le bookmarklet"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:13
+msgid "Confirm url"
+msgstr "Confirmez le lien"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:13
+msgid "Custom%20keyword"
+msgstr "Mot-clé%20personnel"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:18
+msgid "This buttons have to be drag/drop in your webbrowser toolbar, do not clic it, it's just useless.<br />"
+msgstr "Ces boutons doivent être glissés/déplacés dans la barre d'outils de votre navigateur web, ne cliquez pas dessus, c'est juste inutile.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:19
+msgid "Then, when you are on a website, reading a post/page, you can add it to YOUR short urls. Example :<br />"
+msgstr "Puis, quand vous êtes sur un site web, lisant un article ou une page, vous pouvez l'ajouter dans VOS urls courtes. Exemple :<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:20
+msgid "I'm on <em>http://secu.boiteaweb.fr/mylab/</em> and i want to share via my website.<br />"
+msgstr "Je suis sur <em>http://secu.boiteaweb.fr/mylab/</em> et je souhaite le partager via mon site web.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:21
+msgid "1) I can click on \"BAW AutoShort\" : An auto generated keyword will be used to share. Result : <em>http://mywebsite.com/abc</em><br />"
+msgstr "1) je peux cliquer sur \"BAW AutoShort\" : Un mot-clé autogénéré sera utilisé pour le partage. Resultat : <em>http://monsiteweb.com/abc</em><br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:22
+msgid "2) I can click on \"BAW CustomShort\" : A popup will ask me the desired keyword and it will be used to share. Result : <em>http://mywebsite.com/mykeyword</em><br />"
+msgstr "2) je peux cliquer sur \"BAW CustomShort\" : Une popup me demandera de confirmer le lien et d'y ajouter mon propre mot-clé puis il sera utilisé pour le partage. Resultat : <em>http://monsiteweb.com/monmotcle</em><br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:23
+msgid "Remember, when you change the bookmarklet private key, you have to drag/drop again this buttons (delete the older before)."
+msgstr "Souvenez-vous, wuand vous changez la clé secrète du bookmarklet, vous devez glisser/déplacer de nouveau ces boutons (supprimez les anciens avant)."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:29
+msgid "Auto generated keyword"
+msgstr "Mot-clé auto généré"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:31
+msgid "For the bookmarklet, if the desired keyword already exists, it will be replaced by the next auto generated keyword."
+msgstr "Pour le bookmarklet, si le mot-clé désiré existe déjà, il sera remplacé par le prochain mot-clé auto généré."
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:34
+msgid "If \"yes\", when you try to share an external URL via bookmarlet, if the keyword already exists, it will be replaced by the next auto generated keyword.<br />"
+msgstr "Si \"oui\", quand vous essayez de partager un lien externe via le bookmarklet, si le mot-clé existe déjà, il sera remplacé par le prochain mot-clé auto généré.<br />"
+
+#: c:\Web\Sites\baw\baw_auto_shortener/includes/tools.inc.php:35
+msgid "If \"no\", if the keyword already exists, the URL will not be shared and an error will be shown.<br />"
+msgstr "Si \"non\", si le mot-clé existe déjà, l'URL ne sera pas partagée et une erreur sera affichée.<br />"
+
+#~ msgid ""
+#~ "Take care, if you change this keyword, avoid to use it for an external "
+#~ "URL or another post/page. If this keyword already exists, the last post "
+#~ "code will be used first, so your URL/post/page can not be reach by his "
+#~ "own keyword anymore."
+#~ msgstr ""
+#~ "Attention, si vous modifiez ce mot-clé, évitez de l'utiliser pour une URL "
+#~ "externe ou un article/page. Si ce mot-clé existe déjà, le code du dernier "
+#~ "article sera utilisé en premier, donc votre URL/article/page ne pourra "
+#~ "plus être atteint par son propre mot-clé."
+
+#~ msgid ""
+#~ "If more than one keyword is associated, the first associated keyword will "
+#~ "be used. If you delete it, the second will be first, so ..."
+#~ msgstr ""
+#~ "Si plus d'un mot-clé a été associé, la première association sera "
+#~ "utilisée. Si vous la supprimez, la seconde devient la première, donc ..."
+
+#~ msgid ""
+#~ "HELP : The selectbox contains all the associated keywords for each post/"
+#~ "page/custom post.<br />You can clic on \"Get link\" to popout the link, "
+#~ "then you can copy it."
+#~ msgstr ""
+#~ "AIDE : La liste déroulante contient tous les mts-clé associés pour chaque "
+#~ "article/page/type d'article perso."
+
+#~ msgid "Permalinks"
+#~ msgstr "Permaliens"
+
+#~ msgid ""
+#~ "Do you want to replace Permalinks with Auto Shortener Permalinks ? This "
+#~ "will maximize the compatibility with widgets, plugins, themes ..."
+#~ msgstr ""
+#~ "Voulez-vous remplacez les Permaliens par les Permaliens Auto Shortener ? "
+#~ "Ceci maximise la compatibilité avec les widgets, extensions, thèmes ..."
+
+#~ msgid ""
+#~ "Developpers can use <em>bawas_the_permalink()</em> or "
+#~ "<em>bawas_get_permalink()</em>"
+#~ msgstr ""
+#~ "Les développeurs peuvent utiliser <em>bawas_get_permalink()</em> ou "
+#~ "<em>bawas_the_permalink()</em>"
+
+#~ msgid "Your permalinks can be shortened by BAW AS.<br />"
+#~ msgstr "Vos permaliens peuvent être réduits par BAW AS.<br />"
+
+#~ msgid ""
+#~ "Instead of : <em>http://www.mywebsite.com/2011/04/05/my-excellent-post-"
+#~ "12345.html</em>,<br />"
+#~ msgstr ""
+#~ "A la place de : <em>http://www.monsiteweb.com/2011/04/05/mon-super-"
+#~ "article-12345.html</em>,<br />"
+
+#~ msgid "you can now read <em>http://mywebsite.com/12345</em> or<br />"
+#~ msgstr ""
+#~ "vous pouvez maintenant lire <em>http://monsiteweb.com/12345</em> ou<br />"
+
+#~ msgid ""
+#~ "<em>http://exte.rn/12345</em>.<br />Also, developpers can use the "
+#~ "included BAW AS function using this kind of code :<br />"
+#~ msgstr ""
+#~ "<em>http://exte.rn/12345</em>.<br />Aussi, les developpeers peuvent "
+#~ "utiliser les fonctions include dans BAW AS en utilisant ce type de code:"
+#~ "<br />"
+
+#~ msgid ""
+#~ "This code will print the BAW AS short permalink if the function if find, "
+#~ "else, the WordPress permalink will be printed.<br />"
+#~ msgstr ""
+#~ "The code affichera le permalien court de BAW AS si la fonction est "
+#~ "trouvée, sinon, le permalien de WordPress sera affiché.<br />"
+
+#~ msgid ""
+#~ "And now, in all widgets, themes and plugins which use \"the_permalink()\" "
+#~ "or \"get_permalink()\" WordPress function, the new link will be the BAW "
+#~ "AS one !"
+#~ msgstr ""
+#~ "Et maintenant, dans tous les widgets, thèmes et extensions qui utilisent "
+#~ "le fonction WordPress \"the_permalink()\" ou \"get_permalink()\", le "
+#~ "nouveau lien sera celui de BAW AS !"
+
+#~ msgid "Preview big link"
+#~ msgstr "Prévisualiser le lien long"
+
+#~ msgid "Visitors can preview the final link adding a \"+\" below the URL."
+#~ msgstr ""
+#~ "Les visiteurs peuvent prévisualiser le lien final en ajoutant un\"+\" a "
+#~ "la fin de l'URL."
+
+#~ msgid "This is not a real option, you can not disable it !"
+#~ msgstr "Ceci n'est pas une vraie option, vous ne pouvez pas la désactiver !"
+
+#~ msgid "Your visitors have to know where they go before clicking so : "
+#~ msgstr "Vos visiteurs doivent savoir où ils vont avant de cliquer donc : "
+
+#~ msgid ""
+#~ "You can add a \"+\" like this : <em>http://mywebsite.com/keyword+</em> to "
+#~ "see a preview and some gentle stats."
+#~ msgstr ""
+#~ "Vous pouvez ajouter un \"+\" comme ceci : <em>http://monsiteweb.com/"
+#~ "motclef+</em> pour voir une prévisualisation et quelques stats sympa."
+
+#~ msgid "clics"
+#~ msgstr "clics"
+
+#~ msgid ""
+#~ "Error during the creation of the bookmarklet : You do not have the "
+#~ "permission to do this."
+#~ msgstr ""
+#~ "Erreur pendant la création du bookmarklet : Vous n'avez pas la permission "
+#~ "de faire ça."
+
+#~ msgid ""
+#~ "Error during the creation of the bookmarklet : Keyword already exists."
+#~ msgstr "Erreur pendant la création du bookmarklet : Le mot-clé existe déjà."
